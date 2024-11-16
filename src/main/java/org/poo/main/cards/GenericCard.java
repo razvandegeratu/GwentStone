@@ -1,4 +1,4 @@
-package org.poo.main.utils;
+package org.poo.main.cards;
 
 import org.poo.fileio.CardInput;
 

@@ -13,21 +13,18 @@ import org.poo.fileio.DecksInput;
 import org.poo.fileio.GameInput;
 import org.poo.fileio.Input;
 
-import org.poo.main.utils.JsonUtils;
-import org.poo.main.utils.MagicNumbers;
-import org.poo.main.utils.Table;
-import org.poo.main.utils.Hero;
-import org.poo.main.utils.GenericMinion;
-import org.poo.main.utils.GenericCard;
-import org.poo.main.utils.specificCards.Disciple;
-import org.poo.main.utils.specificCards.Miraj;
-import org.poo.main.utils.specificCards.TheCursedOne;
-import org.poo.main.utils.specificCards.TheRipper;
+import org.poo.main.cards.Hero;
+import org.poo.main.cards.GenericMinion;
+import org.poo.main.cards.GenericCard;
+import org.poo.main.specificCards.Disciple;
+import org.poo.main.specificCards.Miraj;
+import org.poo.main.specificCards.TheCursedOne;
+import org.poo.main.specificCards.TheRipper;
 
-import static org.poo.main.utils.MagicNumbers.TABLEROWS;
-import static org.poo.main.utils.MagicNumbers.THIRDROW;
-import static org.poo.main.utils.MagicNumbers.FIFTHCOLOUMN;
-import static org.poo.main.utils.MagicNumbers.FIRSTCOLOUMN;
+import static org.poo.main.MagicNumbers.TABLEROWS;
+import static org.poo.main.MagicNumbers.THIRDROW;
+import static org.poo.main.MagicNumbers.FIFTHCOLOUMN;
+import static org.poo.main.MagicNumbers.FIRSTCOLOUMN;
 
 
 public class GameExecute {

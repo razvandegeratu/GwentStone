@@ -1,7 +1,7 @@
-package org.poo.main.utils.specificCards;
+package org.poo.main.specificCards;
 
 import org.poo.fileio.CardInput;
-import org.poo.main.utils.GenericMinion;
+import org.poo.main.cards.GenericMinion;
 
 public class TheCursedOne extends GenericMinion {
     public TheCursedOne(final CardInput cardInput) {
