@@ -1,0 +1,5 @@
+Starting audit...
+[ERROR] /home/razvan13/Desktop/college_stuff/Anul_2/POO/Tema1/POO-Tema0/./src/main/java/org/poo/main/utils/JsonUtils.java:6:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] /home/razvan13/Desktop/college_stuff/Anul_2/POO/Tema1/POO-Tema0/./src/main/java/org/poo/main/utils/MagicNumbers.java:3:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+Audit done.
+Checkstyle ends with 2 errors.

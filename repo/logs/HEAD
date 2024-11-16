@@ -1,0 +1,150 @@
+0000000000000000000000000000000000000000 4aca881669fb6e0eb418c9f565eceecbfffadc29 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729926675 +0300	clone: from https://github.com/razvandegeratu/oop-asignments/
+4aca881669fb6e0eb418c9f565eceecbfffadc29 4aca881669fb6e0eb418c9f565eceecbfffadc29 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928159 +0300	checkout: moving from master to master
+4aca881669fb6e0eb418c9f565eceecbfffadc29 4aca881669fb6e0eb418c9f565eceecbfffadc29 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928168 +0300	checkout: moving from master to main
+4aca881669fb6e0eb418c9f565eceecbfffadc29 4aca881669fb6e0eb418c9f565eceecbfffadc29 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928274 +0300	checkout: moving from main to master
+4aca881669fb6e0eb418c9f565eceecbfffadc29 4aca881669fb6e0eb418c9f565eceecbfffadc29 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928394 +0300	checkout: moving from master to master
+4aca881669fb6e0eb418c9f565eceecbfffadc29 4aca881669fb6e0eb418c9f565eceecbfffadc29 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928417 +0300	checkout: moving from master to main
+4aca881669fb6e0eb418c9f565eceecbfffadc29 d8628f35e362a2c54a214e2444ecf17bc85c638c razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928467 +0300	pull origin main --rebase (start): checkout d8628f35e362a2c54a214e2444ecf17bc85c638c
+d8628f35e362a2c54a214e2444ecf17bc85c638c 0d9fa7a0ad548bc84b1527dd27b1c4c738b81001 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928638 +0300	rebase (continue): Initial commit
+0d9fa7a0ad548bc84b1527dd27b1c4c738b81001 a66a04498689c81f880f4d6673debf547f7d14aa razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928666 +0300	rebase (continue) (pick): Update gitignore file
+a66a04498689c81f880f4d6673debf547f7d14aa 49eb18f0e10defcb42da974732405135a28bbb9e razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928666 +0300	rebase (continue) (pick): Add folder placeholders for 2017-2018 homeworks
+49eb18f0e10defcb42da974732405135a28bbb9e 3bf6fe4f92491047d9953bddfa736dee4b2ef78b razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928666 +0300	rebase (continue) (pick): Bitbucket migration
+3bf6fe4f92491047d9953bddfa736dee4b2ef78b d2a3832f63a66a7edd52007d6774f7d58ce94be5 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928666 +0300	rebase (continue) (pick): Bitbucket migration
+d2a3832f63a66a7edd52007d6774f7d58ce94be5 c0e61a3151d0f774a3c9cb02d077bd342ad6a328 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928666 +0300	rebase (continue) (pick): Bitbucket migration
+c0e61a3151d0f774a3c9cb02d077bd342ad6a328 782c53ae690e6493a7e5cf08b06fdbc4d0f670c0 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928666 +0300	rebase (continue) (pick): Bitbucket migration
+782c53ae690e6493a7e5cf08b06fdbc4d0f670c0 b22aa2345b42c70ca6090c833a7cdc8f28d982d0 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928666 +0300	rebase (continue) (pick): Bitbucket migration
+b22aa2345b42c70ca6090c833a7cdc8f28d982d0 ec2dca69e0020c8b28852940d251142c06c34bb1 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928666 +0300	rebase (continue) (pick): Bitbucket migration
+ec2dca69e0020c8b28852940d251142c06c34bb1 5ba83dd637a6f09e3231de8d3a14cf56e5cd1ae4 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928667 +0300	rebase (continue) (pick): Bitbucket migration
+5ba83dd637a6f09e3231de8d3a14cf56e5cd1ae4 28512f94239b58bbd32557a14ad27d2765360fe8 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928667 +0300	rebase (continue) (pick): Bitbucket migration
+28512f94239b58bbd32557a14ad27d2765360fe8 5aed6f344d1130e0edd5ceb3af2f7657e3452559 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928667 +0300	rebase (continue) (pick): Bitbucket migration
+5aed6f344d1130e0edd5ceb3af2f7657e3452559 439b71d1386a6f5237da04aa2feebf4e4c5bc4df razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928667 +0300	rebase (continue) (pick): Bitbucket migration
+439b71d1386a6f5237da04aa2feebf4e4c5bc4df 217159e60b28c7e242c845983cff6090420eebe4 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928667 +0300	rebase (continue) (pick): Bitbucket migration
+217159e60b28c7e242c845983cff6090420eebe4 7a4f4e46360191b4805397ae665d1daf09e34a0f razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928667 +0300	rebase (continue) (pick): Bitbucket migration
+7a4f4e46360191b4805397ae665d1daf09e34a0f c5b1cc99307d6e832ed0a47a7c95b236bfd4a7e6 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): tema1: added checker
+c5b1cc99307d6e832ed0a47a7c95b236bfd4a7e6 8ddd8369e2b8e1fffb7b7c6bf933b08aee78ae1e razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): solve checkstyle bugs
+8ddd8369e2b8e1fffb7b7c6bf933b08aee78ae1e 0e06a500a7efae463d3495471f6c53f39cb01a52 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Add checkstyle jar
+0e06a500a7efae463d3495471f6c53f39cb01a52 2d1a210ad4bbf5371c97341934a550aa6ff86ea7 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Add checker and media for Tema 2 2017-2018
+2d1a210ad4bbf5371c97341934a550aa6ff86ea7 82878e423356367c17f4c03dc540fc6272d0a1e7 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Add checkstyle jar
+82878e423356367c17f4c03dc540fc6272d0a1e7 cbd3d53f21679474adba3424112d064118a7d3cb razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Modify makefile name
+cbd3d53f21679474adba3424112d064118a7d3cb d5a27b1e83c1017ab33200f96fda6b519f44e1c3 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Rectify CANVAS shape format in checker input files
+d5a27b1e83c1017ab33200f96fda6b519f44e1c3 b8d06b2fa0413dfd81403265eb8e9000c54a8dd6 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Add the newly generated input and ref files
+b8d06b2fa0413dfd81403265eb8e9000c54a8dd6 12550ab8af9190aca25f9b1274ac726f481ace13 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Update checker
+12550ab8af9190aca25f9b1274ac726f481ace13 9e607bb12fdd12a5e07f40b1c5ae93665ac5796a razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Update tests: 34,35,37
+9e607bb12fdd12a5e07f40b1c5ae93665ac5796a f44f0fe525e63ecdd535ce4fdc4f241827088543 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Modify tema2_checker.sh
+f44f0fe525e63ecdd535ce4fdc4f241827088543 40d96c17736af4e9c02f855df12323156c8cf3d9 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Add tema3
+40d96c17736af4e9c02f855df12323156c8cf3d9 8a340ac7b1af393805ffa3bba7b2cac89ff97eb9 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Rename README
+8a340ac7b1af393805ffa3bba7b2cac89ff97eb9 495e38a9feadfd2dc26e296c86a4ea815420720a razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Fix Main.java
+495e38a9feadfd2dc26e296c86a4ea815420720a 2a0d8e30f37eb4a827c71376b654a9cb5699bf56 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Implement put operation for file cache
+2a0d8e30f37eb4a827c71376b654a9cb5699bf56 299cddda4b8c58eeeba6cfeaf23f491f01ae54b8 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Add performance test for LRU cache
+299cddda4b8c58eeeba6cfeaf23f491f01ae54b8 d68ee8d70ede00bd8164e3f53dbaeb75f9bbe290 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Fix checkstyle issues
+d68ee8d70ede00bd8164e3f53dbaeb75f9bbe290 24d3caa63ade571792701c63d1ee7b757a16c33c razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928695 +0300	rebase (skip) (pick): Add LRU vs FIFO tests
+24d3caa63ade571792701c63d1ee7b757a16c33c 2f6e4ffca2006e013aed14b271e7e277dd7348fc razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928696 +0300	rebase (skip) (pick): Update checker script
+2f6e4ffca2006e013aed14b271e7e277dd7348fc 9c0f26ca3af13a5b1c54a45ddda12182f8aaffd5 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928696 +0300	rebase (skip) (pick): Fixed checkstyle bonus score
+9c0f26ca3af13a5b1c54a45ddda12182f8aaffd5 ffa3144cd5e3b82b59a738b0480145a21ab381c4 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928696 +0300	rebase (skip) (pick): Cleanup tema1
+ffa3144cd5e3b82b59a738b0480145a21ab381c4 14e2069345c83de49706d317d0643ebf09eba74c razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928696 +0300	rebase (skip) (pick): Cleanup tema2
+14e2069345c83de49706d317d0643ebf09eba74c b973c4dc531e1f25fb2d14b6fa4ede8b74d365f6 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928696 +0300	rebase (skip) (pick): Cleanup tema3
+b973c4dc531e1f25fb2d14b6fa4ede8b74d365f6 9baeab3188cec8c645734b12161bdef2350f52d1 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928697 +0300	rebase (skip) (pick): Exclude checkstyle from ignore list
+9baeab3188cec8c645734b12161bdef2350f52d1 14e0c998eb16c9805f52117cc24d91d1dc0f7d4b razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928697 +0300	rebase (skip) (pick): Add placeholders for 2018-2019 homeworks
+14e0c998eb16c9805f52117cc24d91d1dc0f7d4b a55e9fb0c7c938c6d53f7036808ec53d175c50b4 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928698 +0300	rebase (skip) (pick): tema1 checker
+a55e9fb0c7c938c6d53f7036808ec53d175c50b4 4ba50e4e3a5f6df5f7faedb08b5330bded0aaa56 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928698 +0300	rebase (skip) (pick): Tema1 2018 (#10)
+4ba50e4e3a5f6df5f7faedb08b5330bded0aaa56 15dfc81b267485a6abd046883611b0e3e107e201 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928698 +0300	rebase (skip) (pick): Tema1 2018 (#11)
+15dfc81b267485a6abd046883611b0e3e107e201 f6ac18352a3114ae747acea478973a2d95d0e78e razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928698 +0300	rebase (skip) (pick): Tema1 2018 (#12)
+f6ac18352a3114ae747acea478973a2d95d0e78e 580dc09710498392d00b4dc9577d67bdd479ef16 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928698 +0300	rebase (skip) (pick): Tema1 2018 (#13)
+580dc09710498392d00b4dc9577d67bdd479ef16 b996b29268f51d02ae6694da05a64c6b9ef671ef razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928698 +0300	rebase (skip) (pick): Add skel (#14)
+b996b29268f51d02ae6694da05a64c6b9ef671ef e9d0b0e4fb39df741e6f0a020388129fedf2f053 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928698 +0300	rebase (skip) (pick): Tema2 2018 (#15)
+e9d0b0e4fb39df741e6f0a020388129fedf2f053 8d2214740090b4efbe4733fe61db7829e6c6cf4f razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928698 +0300	rebase (skip) (pick): Remove typo from tema-checker-local.sh (#16)
+8d2214740090b4efbe4733fe61db7829e6c6cf4f 1c3bb1aed3445f0c53fcbeff24fe3ff7f8694cc0 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928698 +0300	rebase (skip) (pick): Solve mistakes in test9.ref and test11.ref (#17)
+1c3bb1aed3445f0c53fcbeff24fe3ff7f8694cc0 a477fb05996be18951df905f4144e197f8ea94eb razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928698 +0300	rebase (skip) (pick): Tema3 2018 (#19)
+a477fb05996be18951df905f4144e197f8ea94eb cb2b1a8e78a213d199bfe61d682a6880f6e0db32 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928698 +0300	rebase (skip) (pick): Tema3 - fix tests issue with isSurgeon (#20)
+cb2b1a8e78a213d199bfe61d682a6880f6e0db32 a9dcd355a6adf33f26d30513267d8d3fab71ac37 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928699 +0300	rebase (skip) (pick): Added skel for tema 2019
+a9dcd355a6adf33f26d30513267d8d3fab71ac37 6790762a7a918c90cc14a7c1cc1a6c2c99d6e932 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928699 +0300	rebase (skip) (pick): Added first set of tests
+6790762a7a918c90cc14a7c1cc1a6c2c99d6e932 c61405efb199719256e12608d6bc61d4d69e3e82 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928699 +0300	rebase (skip) (pick): Corrected input reading
+c61405efb199719256e12608d6bc61d4d69e3e82 a67e297f91ee2ce69c1db027aface59fdeea5054 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): Proiect #etapa1 2019-2020 (#23)
+a67e297f91ee2ce69c1db027aface59fdeea5054 760841cb434a9556e86a352a1ba8daa2525b74c3 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): Create etapa1
+760841cb434a9556e86a352a1ba8daa2525b74c3 64d73d348093e14dea35b167a60c8cc1c69bb053 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): proiect-etapa1: change outdated output messages in checker script (#24)
+64d73d348093e14dea35b167a60c8cc1c69bb053 e6d21d7e8bb9917151a07f2117071c20811156ab razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): Add checker and homework (#25)
+e6d21d7e8bb9917151a07f2117071c20811156ab add84080e275da7b2c245bddba2824c9d1bdaa55 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): Move tema1 to the correct folder (#26)
+add84080e275da7b2c245bddba2824c9d1bdaa55 6c28acabca4a802ff3c2b3a2b1bb4e934283ca8b razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): Update checker.sh with appropriate scaling
+6c28acabca4a802ff3c2b3a2b1bb4e934283ca8b dc9d58b2bda88ff358397adc6f4c11b294041ad5 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): [Project-2] Correct output (#27)
+dc9d58b2bda88ff358397adc6f4c11b294041ad5 2d0ec937fea39cb13657ab501830f356a04a233f razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): [Project-2] Correct output (#28)
+2d0ec937fea39cb13657ab501830f356a04a233f 878daa2e1e5d7a6e75aca6578c08840f42968470 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): Fix inconsisten line endings (#29)
+878daa2e1e5d7a6e75aca6578c08840f42968470 5e01e779abf6adbf92b5650162ec296c4347e269 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): Improve checker with forum comments (#30)
+5e01e779abf6adbf92b5650162ec296c4347e269 4852645e0df7d279d59121a5fe7dfb6ba511a6f1 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): Add files via upload (#31)
+4852645e0df7d279d59121a5fe7dfb6ba511a6f1 94df6c880f5f66f8e3d8cd41be89d325a830d758 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): Add files via upload (#32)
+94df6c880f5f66f8e3d8cd41be89d325a830d758 aca58806ff896af59a93babe907a136bf4eeeeb7 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): [Project-2] new refs (#33)
+aca58806ff896af59a93babe907a136bf4eeeeb7 24eaf8782d51965f43466bdb3c204fb24c33aab9 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928700 +0300	rebase (skip) (pick): move files to old for archiving
+24eaf8782d51965f43466bdb3c204fb24c33aab9 58fa2dbc32f7eaf6b2db3611a590b1f85fb391a5 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): add skel for first homework
+58fa2dbc32f7eaf6b2db3611a590b1f85fb391a5 da097b5e5a2b199a4a44898a255adc888d3f2611 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): add getters
+da097b5e5a2b199a4a44898a255adc888d3f2611 430513e18f87a3226e18cb08d21ee594e8245aeb razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): Fixed "recommendations" in Constants.java
+430513e18f87a3226e18cb08d21ee594e8245aeb 7dabd4681ae629fe3c4254a8f058e0731761050d razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): Corrected ref_recommendation_invalid_user.json
+7dabd4681ae629fe3c4254a8f058e0731761050d 84ee4d11fdc3490c71c2e397da198ef2e59e9559 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): Fixed show ratings
+84ee4d11fdc3490c71c2e397da198ef2e59e9559 534fbc8253183006f36822945c48297360ac0235 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): fix refs -> best rated unseen
+534fbc8253183006f36822945c48297360ac0235 356cfc7998020744e91f71a8638122543ae3f52a razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): fix refs -> queries
+356cfc7998020744e91f71a8638122543ae3f52a 3250435a69cddd5637abcb432d3e0b0b74d47a0e razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): Fix checkstyle
+3250435a69cddd5637abcb432d3e0b0b74d47a0e b6941a4f82f64449c33ea6f4b2f7a41b857103e3 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): Project phase1 2020 (#38)
+b6941a4f82f64449c33ea6f4b2f7a41b857103e3 1ca19d1061ca6a422f7fc372cdd8521def4878f8 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): Added checker and skeleton for second stage
+1ca19d1061ca6a422f7fc372cdd8521def4878f8 7cf510db57aabc48665992cd6f2beefbcb1cd71f razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): Rename README_TEMPLATE to README_TEMPLATE.md
+7cf510db57aabc48665992cd6f2beefbcb1cd71f 6a3ad4fb7170649ef7cc9df44a477af158f8c44e razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): Update README_TEMPLATE.md
+6a3ad4fb7170649ef7cc9df44a477af158f8c44e c15c69097e062f5f5ca35c81b16de65051d2c280 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): update typos readme
+c15c69097e062f5f5ca35c81b16de65051d2c280 e18043723fc65d0f61186be14dc64b61a61b67fd razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928701 +0300	rebase (skip) (pick): Adding fixed tests
+e18043723fc65d0f61186be14dc64b61a61b67fd 8eebf7595911aa21bcaf889bfa1ebc254e47f25e razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928702 +0300	rebase (skip) (pick): Moved old files
+8eebf7595911aa21bcaf889bfa1ebc254e47f25e d4abc5ce41927c241eb3e444e28e1d01b602434d razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928702 +0300	rebase (skip) (pick): Added skel
+d4abc5ce41927c241eb3e444e28e1d01b602434d 3f02dde87ec8d4deeb6d6583c31b97e50e393d3a razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928702 +0300	rebase (skip) (pick): Added import
+3f02dde87ec8d4deeb6d6583c31b97e50e393d3a 9eb6740da0cb515f8eca59285ab30d781c28ba08 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928703 +0300	rebase (skip) (pick): Added lombok jar
+9eb6740da0cb515f8eca59285ab30d781c28ba08 4e55367bbe65e630e23b640540ed0913290aef3b razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928703 +0300	rebase (skip) (pick): Added skel for etapa1 (#43)
+4e55367bbe65e630e23b640540ed0913290aef3b 93a01a71341908bd7fae41e5eb920fe78e66d509 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928703 +0300	rebase (skip) (pick): Updated ref test
+93a01a71341908bd7fae41e5eb920fe78e66d509 b7ed5a9bedee09855193e953baf535e9a2d7bbff razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928703 +0300	rebase (skip) (pick): Updated ref test 25 to sort by id's
+b7ed5a9bedee09855193e953baf535e9a2d7bbff ae8986967825bc74a12a861b7a066c017ea04e97 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928703 +0300	rebase (skip) (pick): Modified tests and ref (18, 19, 24)
+ae8986967825bc74a12a861b7a066c017ea04e97 95e90626f6ad4858a1f3e19ff59b491bffa4bb3f razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928703 +0300	rebase (skip) (pick): Add all cities in Cities Enum
+95e90626f6ad4858a1f3e19ff59b491bffa4bb3f c44b4b300b18c3f5126d28ba6d36d30ad90eee45 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928703 +0300	rebase (skip) (pick): Update ref25
+c44b4b300b18c3f5126d28ba6d36d30ad90eee45 e0352d04d655e0c234287d943875ec5bede71596 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Added project 2 folder
+e0352d04d655e0c234287d943875ec5bede71596 76440c92fb13bafe2033261244792fdf0856ca52 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Updated enums
+76440c92fb13bafe2033261244792fdf0856ca52 ddbef867d1f89daaf31f7c38b4cd124bf25de8b8 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Updated checker
+ddbef867d1f89daaf31f7c38b4cd124bf25de8b8 9dcfbf95ea347979e10b34a4fba9cca5dc1849ef razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Deleted unused file
+9dcfbf95ea347979e10b34a4fba9cca5dc1849ef 176e45e7367cb36511344ea6452bf09513d67602 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Updated tests (30)
+176e45e7367cb36511344ea6452bf09513d67602 530954acab0cc87b2a4fd021991bac132e45da10 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Updated refs
+530954acab0cc87b2a4fd021991bac132e45da10 4ca08a230647535e314b7cd1dbc29f0a891ecf94 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Update refs (solve bug related to elves in annual changes)
+4ca08a230647535e314b7cd1dbc29f0a891ecf94 1712aa6d85741ad8e4be020064ca19e9c39580e4 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Fix bug (decrease gift quantity when the yellow elf assigns a gift)
+1712aa6d85741ad8e4be020064ca19e9c39580e4 4e8792b5af103006bee4946d444fde51be1a0995 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Sort cities in lexicographic order if they have the same niceScore
+4e8792b5af103006bee4946d444fde51be1a0995 be3005dd3c3aa96280aabebbda3a1cf8f6921827 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): updated inputs 15, 28, 29, 30
+be3005dd3c3aa96280aabebbda3a1cf8f6921827 1b5cc9182116b0eb5e892a9ae527fcb30dcd006c razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Update refs for tests 28 and 29
+1b5cc9182116b0eb5e892a9ae527fcb30dcd006c bd808d81673e9ea54f3717e52a6ea8ca3d4feb14 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Solve checkstyle errors
+bd808d81673e9ea54f3717e52a6ea8ca3d4feb14 cb9f05e3dd54e0d139d37b5113a118e3aa14d0b0 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): added assignment 1
+cb9f05e3dd54e0d139d37b5113a118e3aa14d0b0 b1dd034b60dc8cf74e431fbed1e75228f99c4acf razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): added intellij files
+b1dd034b60dc8cf74e431fbed1e75228f99c4acf cdff52ddde5829a5bf182a324d578620b0c888b7 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): fixed jackson dependencies
+cdff52ddde5829a5bf182a324d578620b0c888b7 0393c8506bb5159b05d91ea19c4935da44707828 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): reversed test order
+0393c8506bb5159b05d91ea19c4935da44707828 b4fc254fef2c050ca13fe7c752817be359bfc393 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Tema: Fixed the src.main.Test calling the Main.action with the wrong file path
+b4fc254fef2c050ca13fe7c752817be359bfc393 a54c6b3adb7e4b43e0867c194486d77cd4e2abbe razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Added x and y fields in output for getCardAtPosition command
+a54c6b3adb7e4b43e0867c194486d77cd4e2abbe fdbfbd556d2717fb41b7a581f85e3f7b2ba42bb5 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Update README.md
+fdbfbd556d2717fb41b7a581f85e3f7b2ba42bb5 a8765a4be9aa8802be5ee2f3fd8c270a9a0ca5ad razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Delete proiect2 directory
+a8765a4be9aa8802be5ee2f3fd8c270a9a0ca5ad 7a67104d9c4430dd39fb0545119e6d099684e053 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Delete proiect1 directory
+7a67104d9c4430dd39fb0545119e6d099684e053 542246aa2fdda6f584293afbe630fa78b61e8398 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Add files via upload
+542246aa2fdda6f584293afbe630fa78b61e8398 5f37f2cdcc75ffbba742e597cb1024b4c8355640 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Delete proiect1/out/production/ProiectPOO2022 directory
+5f37f2cdcc75ffbba742e597cb1024b4c8355640 171a9b225a12d259c63114ffe622773644b82c9d razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Add files via upload
+171a9b225a12d259c63114ffe622773644b82c9d 275000fff96f50b6f9675c7c790ac34b05a46a99 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Add files via upload
+275000fff96f50b6f9675c7c790ac34b05a46a99 7960e80feeaabed832e39e15ac4e041472982eb9 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Add files via upload
+7960e80feeaabed832e39e15ac4e041472982eb9 a3f40adffd76b6e9e9d64b0ef72d67930154491d razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Add files via upload
+a3f40adffd76b6e9e9d64b0ef72d67930154491d 17724106c70251600f4970a5ec7c0ad3cfbe8646 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Add files via upload
+17724106c70251600f4970a5ec7c0ad3cfbe8646 d75da3e1d14834cb6ab9c935230bbf4be5ed112f razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Add files via upload
+d75da3e1d14834cb6ab9c935230bbf4be5ed112f 6f9c878e1f8156ac576d97cc8770978ce85bcdbd razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Add files via upload
+6f9c878e1f8156ac576d97cc8770978ce85bcdbd 39b729fac7fe633eb3fc6f87f81e714b6252df97 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928704 +0300	rebase (skip) (pick): Add files via upload
+39b729fac7fe633eb3fc6f87f81e714b6252df97 636af90265849c08e86507848a28496da468eb33 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+636af90265849c08e86507848a28496da468eb33 1ec1ce5e12b71d00393831d8d7580198c651d397 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+1ec1ce5e12b71d00393831d8d7580198c651d397 48455617dad952c9cd7492fe237fe246e8cfa4d7 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+48455617dad952c9cd7492fe237fe246e8cfa4d7 03fa7e619e40ebe787816ca2b26d1790f6c707df razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Delete Makefile
+03fa7e619e40ebe787816ca2b26d1790f6c707df d87b946d948fcd1eb3f924b1c21bfde7d8b52fa4 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Delete checker.sh
+d87b946d948fcd1eb3f924b1c21bfde7d8b52fa4 27b2033ab1973e6ea7fb33b9e5eeb0a482ad20ac razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Update Main.java
+27b2033ab1973e6ea7fb33b9e5eeb0a482ad20ac 792eea165b691ee9792c6729efb01d2a410fcf57 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+792eea165b691ee9792c6729efb01d2a410fcf57 ae52baa947407c75cbbf97f226a1b1751b7524fc razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+ae52baa947407c75cbbf97f226a1b1751b7524fc 6cbaf1678917198ee81c3565792ebb4902fff090 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+6cbaf1678917198ee81c3565792ebb4902fff090 69db0a1adb28ee599ca729c2169192b197ec3795 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+69db0a1adb28ee599ca729c2169192b197ec3795 5b411a4364aa6eb1ecd2cdc712e41f886db22ab5 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+5b411a4364aa6eb1ecd2cdc712e41f886db22ab5 3510d3e90b81c7c7831a4a2549e36bae33efaf50 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+3510d3e90b81c7c7831a4a2549e36bae33efaf50 ab41714f82a897b244ca822fa55cc8e1888e3415 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+ab41714f82a897b244ca822fa55cc8e1888e3415 61c2dcb15de02040c05829cf77853325061b7074 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+61c2dcb15de02040c05829cf77853325061b7074 f6a4930b2f794266b70f70bcbfb0320549548e04 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+f6a4930b2f794266b70f70bcbfb0320549548e04 a95ac98b0114ad322df69d4c66db336b1d9922ba razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Add files via upload
+a95ac98b0114ad322df69d4c66db336b1d9922ba 31a68ab1cc9db04a209231ca00beea0e2b1feb05 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): teme/tema, proiect1: Sort input files
+31a68ab1cc9db04a209231ca00beea0e2b1feb05 5ff5872719d12d876ffbc55cb2950f85eea43393 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (pick): Update homework to 2024 version
+5ff5872719d12d876ffbc55cb2950f85eea43393 5ff5872719d12d876ffbc55cb2950f85eea43393 razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1729928705 +0300	rebase (skip) (finish): returning to refs/heads/main
+5ff5872719d12d876ffbc55cb2950f85eea43393 9d811af0ff0c1636cc8d5768389c12a6d25c03cc razvandegeratu <razvan.degeratu@stud.acs.upb.ro> 1731586438 +0200	commit: Urmeaza sa adaug in folderul nou

@@ -1,0 +1,29 @@
+commit c324366421a64a4b8d88476e1ed040d674935c25
+Author: razvandegeratu <razvan.degeratu@stud.acs.upb.ro>
+Date:   Thu Nov 14 10:23:45 2024 +0200
+
+    Pare ca merge, trebuie doar sa adaug pe checkerul nou
+
+commit f6889400bf415e6f4faea124b609889555e8e438
+Author: razvandegeratu <razvan.degeratu@stud.acs.upb.ro>
+Date:   Fri Nov 1 08:11:49 2024 +0200
+
+    Cred ca merge getPlayerTurn, nu merge placeCard, afiseaza mereu ca nu e randul jucatorului care trebuie
+
+commit a0c7dba82496853504466b2234f5830c72b1741b
+Author: razvandegeratu <razvan.degeratu@stud.acs.upb.ro>
+Date:   Thu Oct 31 12:50:34 2024 +0200
+
+    Foarte aproape de al doilea test
+
+commit 53f14bff16b68950f9efc6ef8885b3646425a2a2
+Author: razvandegeratu <razvan.degeratu@stud.acs.upb.ro>
+Date:   Sun Oct 27 15:13:11 2024 +0200
+
+    Pare ca merge sa adauge in JSON, formatul e incorect, trebuie sa fac un PrettyPrinter custom
+
+commit 0166a4b657665c7217d58f92728875390b8dcf41
+Author: razvandegeratu <razvan.degeratu@stud.acs.upb.ro>
+Date:   Sun Oct 27 00:27:30 2024 +0300
+
+    Primul commit!
