@@ -8,6 +8,8 @@ import com.fasterxml.jackson.databind.ObjectWriter;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import org.poo.checker.CheckerConstants;
 import org.poo.fileio.Input;
+import org.poo.main.utils.CustomPrettyPrinter;
+
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;

@@ -1,8 +1,10 @@
-package org.poo.main;
+package org.poo.main.utils;
 
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
+import org.poo.main.cards.GenericCard;
 import org.poo.main.cards.GenericMinion;
+import org.poo.main.cards.Hero;
 
 public class JsonUtils {
 

@@ -3,6 +3,7 @@ package org.poo.main;
 import org.poo.fileio.CardInput;
 import org.poo.main.cards.GenericMinion;
 import org.poo.main.cards.Hero;
+import org.poo.main.utils.MagicNumbers;
 
 import java.util.ArrayList;
 

@@ -20,11 +20,13 @@ import org.poo.main.specificCards.Disciple;
 import org.poo.main.specificCards.Miraj;
 import org.poo.main.specificCards.TheCursedOne;
 import org.poo.main.specificCards.TheRipper;
+import org.poo.main.utils.JsonUtils;
+import org.poo.main.utils.MagicNumbers;
 
-import static org.poo.main.MagicNumbers.TABLEROWS;
-import static org.poo.main.MagicNumbers.THIRDROW;
-import static org.poo.main.MagicNumbers.FIFTHCOLOUMN;
-import static org.poo.main.MagicNumbers.FIRSTCOLOUMN;
+import static org.poo.main.utils.MagicNumbers.TABLEROWS;
+import static org.poo.main.utils.MagicNumbers.THIRDROW;
+import static org.poo.main.utils.MagicNumbers.FIFTHCOLOUMN;
+import static org.poo.main.utils.MagicNumbers.FIRSTCOLOUMN;
 
 
 public class GameExecute {
