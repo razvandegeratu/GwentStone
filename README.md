@@ -1,42 +1,57 @@
+# 323CA Degeratu Razvan-Andrei
+# GwentStone
+
+## Description
+	This project simulates a PvP card game combining elements from
+	HearthStone and Gwent. The two players use a various ammount of cards
+	and heroes that have special abilities to fight against each other.
+
+## Project Structure:
+
+### Packages: 
+	1. package "cards" contains GenericCard, GenericMinion,
+   	   Hero and the "specific" package
+	2. package "specific" contains all the specific cards:
+       Disciple, Miraj, TheCursedOne, TheRipper
+	3. package "utils" contains utility classes:
+       JsonUtils, MagicNumbers, CustomPrettyPrinter
+
+### Classes:
+	1. GameExecute handles the flow of the game, uses methods
+   	   in order to simulate the game:
+		1. initializeGame - initializes the game, initializes the players and the decks, the mana,
+			draws one card for each player and shuffles the Decks
+			based on the seed
+		2. processGameActions - parses the commands and handles
+           them with specific handle methods.
+	2. Table contains the table of the game, the hands, the decks and the cards on the table, 
+	3. MagicNumbers contains the constants used throughout the project.
+	4. CustomPrettyPrinter changes the way Json is printed in order to debug more easily.
+	5. GenericCard contains the general characteristics of Minions and Heroes.
+	6. GenericMinion contains the characteristics of Minions.
+	7. Hero extends Minion and adds the specific health of a Hero: 30.
+	8. One class for every special minion that overrides the specialAbility method.
+### OOP Concepts used:
+	1. Inheritance
+	2. Polymorphism
+	3. Encapsulation
+	4. Composition
+	5. Aggregation
+	6. Packages
+	7. Overriding
+	8. Overloading
+	9. Final Methods/Variables
+
+## Ways to be improved
+	1. Remove duplicate code by creating a new class that handles error output
+	2. Add a class for Player,
+	3. Move from the functionality of GameExecute to improve
+   	    Single Responsability Principle
 
 
-# Tema POO  - GwentStone
-
-<div align="center"><img src="https://tenor.com/view/witcher3-gif-9340436.gif" width="500px"></div>
-
-#### Assignment Link: [https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/tema](https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/tema)
-
-
-## Skel Structure
-
-* src/
-  * checker/ - checker files
-  * fileio/ - contains classes used to read data from the json files
-  * main/
-      * Main - the Main class runs the checker on your implementation. Add the entry point to your implementation in it. Run Main to test your implementation from the IDE or from command line.
-      * Test - run the main method from Test class with the name of the input file from the command line and the result will be written
-        to the out.txt file. Thus, you can compare this result with ref.
-* input/ - contains the tests in JSON format
-* ref/ - contains all reference output for the tests in JSON format
-
-## Tests
-
-1. test01_game_start - 4p
-2. test02_place_card - 5p
-3. test03_place_card_invalid - 5p
-4. test04_attack_card - 5p
-5. test05_attack_card_invalid - 5p
-6. test06_use_card_ability - 5p
-7. test07_use_card_ability_invalid - 5p
-8. test08_attack_hero - 5p
-9. test09_attack_hero_invalid - 5p
-10. test10_use_hero_ability_1 - 4p
-11. test11_use_hero_ability_2 - 4p
-12. test12_use_hero_ability_invalid_1 - 4p
-13. test13_use_hero_ability_invalid_2 - 4p
-14. test14_multiple_games_valid - 5p
-15. test15_multiple_games_invalid - 5p
-16. test16_big_game - 10p
-
-
-<div align="center"><img src="https://tenor.com/view/homework-time-gif-24854817.gif" width="500px"></div>
+## Resources used:
+	1. http://bit.ly/3V5E6hc - baeldung.com - Jackson
+	2. https://ocw.cs.pub.ro/courses/poo-ca-cd
+	3. https://refactoring.guru/design-patterns
+	4. https://www.w3schools.com/java
+	5. https://www.geeksforgeeks.org/
